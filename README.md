@@ -1,2 +1,2 @@
-Author: Brandon Silvibarr
-Purpose: Ecommerce website development
+Author: Brandon Silvibarr.
+Purpose: Ecommerce website development.

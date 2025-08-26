@@ -59,7 +59,7 @@ h1, h2, h3 {
   margin-left: 20px;
 }
 .top-right-image {
-  position: fixed;
+  position: absolute;
   top: 20px;
   right: 20px;
   max-width: 100px;

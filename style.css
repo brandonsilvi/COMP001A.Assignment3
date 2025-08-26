@@ -10,7 +10,7 @@
 .product-grid {
   display: grid;
   gap: 20px;
-  grid-template-columns: auto-fill;
+  grid-template-columns: auto;
   margin: 0 auto;
   max-width: 1200px;
   width: 100%;
